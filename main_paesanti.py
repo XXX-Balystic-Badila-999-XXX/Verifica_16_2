@@ -6,3 +6,4 @@ def saluto_andrea_paesanti():
 
 main_todisco.saluto_mattia_todisco()
 main_colombi.saluto_marco_colombi()
+saluto_andrea_paesanti()
